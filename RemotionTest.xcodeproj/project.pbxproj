@@ -11,6 +11,7 @@
 		E90E24A92A211B400024766A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E24A82A211B400024766A /* ContentView.swift */; };
 		E90E24AB2A211B420024766A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E90E24AA2A211B420024766A /* Assets.xcassets */; };
 		E90E24AF2A211B420024766A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E90E24AE2A211B420024766A /* Preview Assets.xcassets */; };
+		E90E24B62A211C800024766A /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90E24B52A211C800024766A /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		E90E24AA2A211B420024766A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E90E24AC2A211B420024766A /* RemotionTest.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RemotionTest.entitlements; sourceTree = "<group>"; };
 		E90E24AE2A211B420024766A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E90E24B52A211C800024766A /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				E90E24A62A211B400024766A /* RemotionTestApp.swift */,
+				E90E24B52A211C800024766A /* Home.swift */,
 				E90E24A82A211B400024766A /* ContentView.swift */,
 				E90E24AA2A211B420024766A /* Assets.xcassets */,
 				E90E24AC2A211B420024766A /* RemotionTest.entitlements */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E90E24A92A211B400024766A /* ContentView.swift in Sources */,
+				E90E24B62A211C800024766A /* Home.swift in Sources */,
 				E90E24A72A211B400024766A /* RemotionTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
